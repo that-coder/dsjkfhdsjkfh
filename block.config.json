@@ -1,0 +1,13 @@
+{
+  "name": "dsjkfhdsjkfh",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/that-coder/dsjkfhdsjkfh",
+    "ssh": "git@github.com:that-coder/dsjkfhdsjkfh.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
